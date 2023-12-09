@@ -1318,6 +1318,13 @@ background-size: cover;
         .vedio-player p{
             font-size: 24px;
         }
+        .budget-cards-section {
+           
+            overflow: hidden;
+        }
+        .benefits-section-tablet  .tablet-dots-box-light{
+            display: none !important;
+        }
 }
 
 
